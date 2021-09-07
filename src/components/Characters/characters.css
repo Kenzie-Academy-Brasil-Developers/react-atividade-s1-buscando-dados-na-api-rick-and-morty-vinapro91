@@ -1,0 +1,8 @@
+.main {
+  width: 100vw;
+  height: 2000px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
